@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "WHY THE BLUE WIZARDS "
+date: 2022-3-13
 ---
 
 Tolkien rocks
